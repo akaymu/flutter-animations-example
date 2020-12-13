@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Screenshot](screenshot.png)
+![Screenshot](Ekran Resmi 2020-12-13 19.08.16.png)
